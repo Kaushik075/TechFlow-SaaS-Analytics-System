@@ -68,6 +68,10 @@ The system enables:
 
 ---
 
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/080fcaf0-2d6d-40c9-84e6-ff5aade3c0be" />
+
+---
+
 ### 4. RFM Segmentation (Behavioral Segments)
 - Segmented users into:
   - Champions
