@@ -17,6 +17,8 @@ This creates key blind spots:
 
 This project builds a **relational analytics system** that answers these questions using SQL-driven analysis.
 
+<img width="991" height="652" alt="Image" src="https://github.com/user-attachments/assets/86be8faa-ec26-4e92-b9c6-bd8f6d3870a8" />
+
 ### Data Model (6 Core Tables)
 - `users`
 - `subscriptions`
