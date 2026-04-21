@@ -146,19 +146,8 @@ This system enables:
 
 ---
 
-## 📂 Project Structure
 
 
-├── DATA BASE CREATION.sql
-├── BUSINESS PROBLEMS - SOLUTIONS.sql
-├── generate_techflow_sub_data.py
-├── Business Requirements Document.pdf
-├── README.md
-
-
----
-
----
 
 ## ▶️ How to Run
 
