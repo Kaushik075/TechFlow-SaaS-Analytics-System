@@ -1,6 +1,7 @@
 # TechFlow-SaaS-Analytics-System
 An end-to-end SaaS analytics system built to simulate how product, growth, and revenue teams analyze user behavior, identify churn risks, and drive data-backed decisions.
 
+- Analysis Report : https://fancy-anglerfish-6b3.notion.site/Techflow-Saas-Analytics-344749751fc2807d9813eb91923ba600
 ## 📌 Problem Statement
 
 SaaS companies operate on fragmented data across subscriptions, payments, and product usage.
